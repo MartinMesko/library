@@ -1,0 +1,10 @@
+Harry Potter a Kameň mudrcov,J.K. Rowling,9781566199094,310,0,1000
+Pán prsteňov: Spoločenstvo prsteňa,J.R.R. Tolkien,9780345339731,423,2,1001
+1984,George Orwell,9780452284234,268,6,1002
+Veľký Gatsby,F. Scott Fitzgerald,9780743273565,192,2,1003
+Zabiť mockingbirda,Harper Lee,9780061120084,281,4,1004
+Zlodej kníh,Markus Zusak,9780375842207,552,3,1005
+Sto rokov samoty,Gabriel García Márquez,9780060883287,417,2,1006
+Zločin a trest,Fyodor Dostoyevsky,9780140449136,720,4,1007
+Starec a more,Ernest Hemingway,9780684801223,127,5,1008
+Rozum a cit,Jane Austen,9780141439662,374,1,1009

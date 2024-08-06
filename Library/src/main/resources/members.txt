@@ -1,0 +1,16 @@
+Peter,Smith,15.03.1985,1001
+Martina,Johnson,07.09.1990,1002
+Jacob,Williams,22.11.1977,1003
+Ivana,Jones,30.04.2000,1004
+Thomas,Brown,01.01.1995,1005
+Susan,Davis,14.02.1988,1006
+George,Miller,26.06.1963,1007
+Eva,Wilson,09.12.1970,1008
+Frank,Moore,03.05.1999,1009
+Lucy,Taylor,18.08.2002,1010
+Juraj,Kukura,01-01-1990,1234
+Juraj,Kukura,01-01-1990,1234
+Juraj,Kukura,01-01-1990,1234
+Juraj,Kukura,01-01-1990,1234
+Juraj,Kukura,01-01-1990,1234
+Juraj,Kukura,01-01-1990,1234
